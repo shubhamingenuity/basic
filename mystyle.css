@@ -1,0 +1,15 @@
+#container {
+    width: 600px;
+    height: 200px;
+    position: relative;
+    background: yellow;
+}
+#animate {
+    width: 5px;
+    height: 5px;
+    position: absolute;
+    background: red;
+    bottom: 0%;
+    left: 0%;
+    
+}
